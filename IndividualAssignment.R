@@ -1,5 +1,5 @@
 #set working directory
-setwd("/Users/Edward/Library/CloudStorage/OneDrive-UniversityofBristol/Documents/Applied Econometrics/IndividualAssignment")
+setwd("")
 library("xts")
 library("zoo")
 library("urca")
