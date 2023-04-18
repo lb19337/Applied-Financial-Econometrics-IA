@@ -1,5 +1,5 @@
 #set working directory
-setwd("/Users/Edward/Library/CloudStorage/OneDrive-UniversityofBristol/Documents/Applied Econometrics/IndividualAssignment")
+setwd("")
 
 # install.packages("aTSA")
 # install.packages("tidyverse")
